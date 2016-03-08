@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: '"Farlig" ute 8. januar!'
-datePublished: '2016-03-08T12:07:05.390Z'
-dateModified: '2016-03-08T12:07:00.315Z'
+datePublished: '2016-03-08T12:16:57.263Z'
+dateModified: '2016-03-08T12:16:00.240Z'
 title: Farlig singel
 author: []
 sourcePath: _posts/2016-03-08-farlig-singel.md
